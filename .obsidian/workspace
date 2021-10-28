@@ -7,11 +7,8 @@
         "id": "9aa457b86bebfabb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Death and Life of Great American Cities.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#literature_review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Death and Life of Great American Cities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +95,15 @@
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "The Three Historic Currents of City Planning.md",
+    "Two Centuries of Planning.md",
+    "Arguments for and against Planning.md",
     "The Death and Life of Great American Cities.md",
     "template.md",
-    "Two Centuries of Planning.md",
     "Do Artifacts Have Politics?.md",
     "Authoritarian and Democratic Technics.md",
     "README.md",
-    "Untitled 1.md",
-    "test.md"
+    "Untitled 1.md"
   ]
 }
