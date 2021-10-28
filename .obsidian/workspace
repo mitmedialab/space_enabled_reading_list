@@ -7,8 +7,11 @@
         "id": "9aa457b86bebfabb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#literature_review",
+                "query": "tag:#field/advancing_justice/design_justice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +99,15 @@
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "README.md",
+    "template.md",
+    "The theory of economic development.md",
+    "The Idea of Progress.md",
     "The Three Historic Currents of City Planning.md",
     "Two Centuries of Planning.md",
-    "Arguments for and against Planning.md",
     "The Death and Life of Great American Cities.md",
-    "template.md",
-    "Do Artifacts Have Politics?.md",
-    "Authoritarian and Democratic Technics.md",
-    "README.md",
-    "Untitled 1.md"
+    "Governing the Commons.md",
+    "Untitled.md",
+    "Arguments for and against Planning.md"
   ]
 }
