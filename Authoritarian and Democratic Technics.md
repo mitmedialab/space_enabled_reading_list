@@ -13,6 +13,5 @@ Mumford theorized that technology came in two different essential stripes, neith
 Tags:
 #person/Mumford
 #type/paper
-#mission/advancing_justice
-#field/design_justice
+#field/advancing_justice/design_justice
 #foundational

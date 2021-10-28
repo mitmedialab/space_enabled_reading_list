@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Authoritarian and Democratic Technics.md",
+            "file": "The Death and Life of Great American Cities.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authoritarian and Democratic Technics.md",
+                "file": "The Death and Life of Great American Cities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,16 +95,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
-    "Authoritarian and Democratic Technics.md",
+    "The Death and Life of Great American Cities.md",
+    "template.md",
+    "Two Centuries of Planning.md",
     "Do Artifacts Have Politics?.md",
-    "Untitled 1.md",
+    "Authoritarian and Democratic Technics.md",
     "README.md",
-    "test.md",
-    "Untitled.md"
+    "Untitled 1.md",
+    "test.md"
   ]
 }
