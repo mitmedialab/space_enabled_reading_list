@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "The theory of economic development.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The theory of economic development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +99,14 @@
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
-    "README.md",
-    "template.md",
     "The theory of economic development.md",
+    "README.md",
+    "Governing the Commons.md",
+    "template.md",
     "The Idea of Progress.md",
     "The Three Historic Currents of City Planning.md",
     "Two Centuries of Planning.md",
     "The Death and Life of Great American Cities.md",
-    "Governing the Commons.md",
     "Untitled.md",
     "Arguments for and against Planning.md"
   ]
