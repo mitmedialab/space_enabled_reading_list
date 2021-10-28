@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Authoritarian and Democratic Technics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Authoritarian and Democratic Technics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
+    "Authoritarian and Democratic Technics.md",
+    "Do Artifacts Have Politics?.md",
+    "Untitled 1.md",
     "README.md",
     "test.md",
     "Untitled.md"
