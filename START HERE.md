@@ -20,21 +20,25 @@ The field tag, #field , is one of the main heirachies in this repository. It is 
 		2. Big Data, Algorithms, & Surveillance Capitalism #field/advancing_justice/justice/data
 		3. Design Justice #field/advancing_justice/justice/design
 2. [[In Earth's Complex Systems]] #field/earth_complex
-	1. Modeling Complex Systems
-	2. Machine Learning & Artificial Intelligence
-	3. Ecosystem Services
-	4. Environmental Systems
-	5. Descision Support & Scenario Planning
-	6. Geospatial Information Systems
-3. [[Using Designs Enabled by Space]]
-	1. Syset
-	2. Design & Development of 
+	1. Modeling Complex Systems #field/earth_complex/modeling
+	2. Machine Learning & Artificial Intelligence #field/earth_complex/machine_learning
+	3. Ecosystem Services #field/earth_complex/ecosystem_services
+	4. Environmental Systems #field/earth_complex/environment
+	5. Descision Support & Scenario Planning #field/earth_complex/decision
+	6. Geospatial Information Systems #field/earth_complex/gis
+3. [[Using Designs Enabled by Space]] #field/space
+	1. System Engineering & Architecture  #field/space/system
+	2. Design & Development of Space Systems #field/space/design
+		1. Satellite Engineering #field/space/design/satellites
+		2. Propulsion Systems #field/space/design/propulsion
+		3. Space Program & Capability Development #field/space/design/program
+	3. Remote Observation of Earth #field/space/remote
+	4. Law, Ethics, Sustainability, & Society in Space #field/space/society
 
 
 ## How do I add a new reference? 
 
-
-
+The easiest way is to go to [[template]] and copy the contents into a new file. then just fill out the various parts. Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
 
 
 ---

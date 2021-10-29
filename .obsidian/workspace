@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Advancing Justice and Development.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Advancing Justice and Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
-    "README.md",
-    "Using Designs Enabled by Space.md",
     "Advancing Justice and Development.md",
+    "START HERE.md",
+    "template.md",
+    "Using Designs Enabled by Space.md",
     "In Earth's Complex Systems.md",
     "The Idea of Progress.md",
     "Do Artifacts Have Politics?.md",
     "Authoritarian and Democratic Technics.md",
     "The Death and Life of Great American Cities.md",
-    "The theory of economic development.md",
-    "The Three Historic Currents of City Planning.md"
+    "The theory of economic development.md"
   ]
 }
