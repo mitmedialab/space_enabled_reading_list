@@ -14,4 +14,5 @@ Winner very much builds upon the earlier work of Lewis Mumford, see [[Authoritar
 Tags:
 #person/Winner 
 #type/paper 
-#field/advancing_justice/design_justice
+#field/advancing_justice/justice/design 
+#reference

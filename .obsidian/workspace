@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The theory of economic development.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The theory of economic development.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "9aa457b86bebfabb",
   "lastOpenFiles": [
-    "The theory of economic development.md",
     "README.md",
-    "Governing the Commons.md",
-    "template.md",
+    "Using Designs Enabled by Space.md",
+    "Advancing Justice and Development.md",
+    "In Earth's Complex Systems.md",
     "The Idea of Progress.md",
-    "The Three Historic Currents of City Planning.md",
-    "Two Centuries of Planning.md",
+    "Do Artifacts Have Politics?.md",
+    "Authoritarian and Democratic Technics.md",
     "The Death and Life of Great American Cities.md",
-    "Untitled.md",
-    "Arguments for and against Planning.md"
+    "The theory of economic development.md",
+    "The Three Historic Currents of City Planning.md"
   ]
 }

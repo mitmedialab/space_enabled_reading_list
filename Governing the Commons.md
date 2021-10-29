@@ -26,4 +26,5 @@ Tags:
 #type/book
 #field/advancing_justice/development/theory
 #foundational
-#common_pool_resources
+#topic/common_pool_resources
+#reference
