@@ -4,7 +4,7 @@
 The mission of the Space Enabled Research Group at the MIT Media Lab is “advancing justice in Earth’s complex systems using designs enabled by space.” The readings contained in this repository inform the research direction and theoretical foundations of the Space Enabled Research Group. The readings are divided into categories that reflect the mission statement of the group, but the unique contribution of the group will be to integrate the thinking of these readings into a coherent call to action.
 
 ## What are all these .md files?
-This repository is organized as an Obsidian vault
+This repository is organized as an [Obsidian](https://obsidian.md/) vault with each individual entry taking the form of a [Markdown](https://www.markdownguide.org/getting-started/) file, a commonly used format for basic typesetting. While you can certainly use any number of applications to browse these files, Obsidian is strongly recommended for a whole host of reasons. 
 
 ## How do I navigate? 
 There are a variety of ways to navigate, use, and refer to this repository. Below are some of the commonly used ways / good jumping of points. If you have a good one of your own, add it to the list.
@@ -38,10 +38,16 @@ The field tag, #field , is one of the main heirachies in this repository. It is 
 	3. Remote Observation of Earth #field/space/remote
 	4. Law, Ethics, Sustainability, & Society in Space #field/space/society
 
+### The foundational tag
+The foundational tag, #foundational , is put on any reference that Space Enabled folks consider to be, well, foundational. These can be revolutionary texts within certain fields, particularly good literature reviews, or just plain important pieces. If you are new to a field, one good place to start is to combine search for both a field tag and the foundational tag.
+
+### Graph view
+One of the virtues of Obsidian is its graph view. Through it you can visually browse and filter the various references, and how they link to one another. 
 
 ## How do I add a new reference? 
+First off, make sure that your system is set up to upload your changes back to the repository. To do that, after you install Obsidian, go and install the [obsidian-git plugin](https://github.com/denolehov/obsidian-git). If you've never used git, don't be intimidated, there's a pretty nice tutorial on using git and Obsidian togethere [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md).
 
-The easiest way is to go to the [[reference]] template and copy the contents into a new file. then just fill out the various parts. You can use the Template plugin (under Core plugins) to streamline the process, as desribed [here](https://help.obsidian.md/Plugins/Templates). Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
+Once all that is set up, the easiest way is to go to the [[reference]] template and copy the contents into a new file. then just fill out the various parts. You can use the Template plugin (under Core plugins) to streamline the process, as desribed [here](https://help.obsidian.md/Plugins/Templates). Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
 
 
 ---

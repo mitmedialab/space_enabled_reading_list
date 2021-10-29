@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "START HERE.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "START HERE.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#field/advancing_justice/design_justice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,10 @@
   },
   "active": "5ca41f11d5e2d54c",
   "lastOpenFiles": [
-    "START HERE.md",
+    "README.md",
+    "Area Descriptions/Advancing Justice and Development.md",
     "test.md",
     "Templates/reference.md",
-    "Area Descriptions/Advancing Justice and Development.md",
     "Area Descriptions/Using Designs Enabled by Space.md",
     "Area Descriptions/In Earth's Complex Systems.md",
     "References/Arguments for and against Planning.md",
