@@ -1,5 +1,5 @@
 ---
-creationDate: 2021-10-31 18:22
+creationDate: {{date}} {{time}}
 author: Jack Reid
 ---
 [Formated Citation Here]
@@ -10,6 +10,6 @@ author: Jack Reid
 Tags:
 #person/
 #type/paper
-#field/advancing_justice/development/theory
+#field/
 #reference
 #foundational

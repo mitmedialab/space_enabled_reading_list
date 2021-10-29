@@ -3,6 +3,9 @@
 ## Welcome! 
 The mission of the Space Enabled Research Group at the MIT Media Lab is “advancing justice in Earth’s complex systems using designs enabled by space.” The readings contained in this repository inform the research direction and theoretical foundations of the Space Enabled Research Group. The readings are divided into categories that reflect the mission statement of the group, but the unique contribution of the group will be to integrate the thinking of these readings into a coherent call to action.
 
+## What are all these .md files?
+This repository is organized as an Obsidian vault
+
 ## How do I navigate? 
 There are a variety of ways to navigate, use, and refer to this repository. Below are some of the commonly used ways / good jumping of points. If you have a good one of your own, add it to the list.
 
@@ -38,7 +41,7 @@ The field tag, #field , is one of the main heirachies in this repository. It is 
 
 ## How do I add a new reference? 
 
-The easiest way is to go to [[template]] and copy the contents into a new file. then just fill out the various parts. Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
+The easiest way is to go to the [[reference]] template and copy the contents into a new file. then just fill out the various parts. You can use the Template plugin (under Core plugins) to streamline the process, as desribed [here](https://help.obsidian.md/Plugins/Templates). Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
 
 
 ---

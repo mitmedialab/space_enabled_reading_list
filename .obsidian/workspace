@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa457b86bebfabb",
+        "id": "5ca41f11d5e2d54c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advancing Justice and Development.md",
+            "file": "START HERE.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bc1d889517175352",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "START HERE.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advancing Justice and Development.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9aa457b86bebfabb",
+  "active": "5ca41f11d5e2d54c",
   "lastOpenFiles": [
-    "Advancing Justice and Development.md",
     "START HERE.md",
-    "template.md",
-    "Using Designs Enabled by Space.md",
-    "In Earth's Complex Systems.md",
-    "The Idea of Progress.md",
-    "Do Artifacts Have Politics?.md",
-    "Authoritarian and Democratic Technics.md",
-    "The Death and Life of Great American Cities.md",
-    "The theory of economic development.md"
+    "test.md",
+    "Templates/reference.md",
+    "Area Descriptions/Advancing Justice and Development.md",
+    "Area Descriptions/Using Designs Enabled by Space.md",
+    "Area Descriptions/In Earth's Complex Systems.md",
+    "References/Arguments for and against Planning.md",
+    "References/Authoritarian and Democratic Technics.md",
+    "References/Do Artifacts Have Politics?.md",
+    "References/friedman_timeline.png"
   ]
 }
