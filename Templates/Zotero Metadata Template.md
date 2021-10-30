@@ -1,9 +1,8 @@
 ---
-title: %(title)
-authors: 
-	- %(author)
+title: {{yamltitle}}
+authors: {{yamlauthorlist}}
 field: 
-date: %(date)
+date: {{yamldate}}
 ---
 # {{title}}
 
@@ -18,10 +17,9 @@ date: %(date)
 * field: 
 {{tags}}, #reference
 
-%(title)
 
 ##Abstract
-#abstract:: %(abstractNote)%
+#abstract:: {{abstractNote}}
 
 ##Key Ideas
 #key-idea:: 
