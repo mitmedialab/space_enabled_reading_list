@@ -37,4 +37,4 @@ Featuring updates and revisions to reflect rapid changes in an increasingly glob
 #literature-notes:: 
 
 ## Connections to other references
-For a similar, but different categorization system, see [[Two Centuries of Planning]]
+For a similar, but different categorization system, see [[two-centuries-of-planning-an-overview]]

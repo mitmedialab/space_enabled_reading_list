@@ -3,7 +3,7 @@
 ## Welcome! 
 The mission of the Space Enabled Research Group at the MIT Media Lab is “advancing justice in Earth’s complex systems using designs enabled by space.” The readings contained in this repository inform the research direction and theoretical foundations of the Space Enabled Research Group. The readings are divided into categories that reflect the mission statement of the group, but the unique contribution of the group will be to integrate the thinking of these readings into a coherent call to action.
 
-## What are all these .md files?
+## What are all these .md files? How do I open them?
 This repository is organized as an [Obsidian](https://obsidian.md/) vault with each individual entry taking the form of a [Markdown](https://www.markdownguide.org/getting-started/) file, a commonly used format for basic typesetting. While you can certainly use any number of applications to browse these files, Obsidian is strongly recommended for a whole host of reasons. 
 
 ## How do I navigate? 
@@ -47,7 +47,9 @@ One of the virtues of Obsidian is its graph view. Through it you can visually br
 ## How do I add a new reference? 
 First off, make sure that your system is set up to upload your changes back to the repository. To do that, after you install Obsidian, go and install the [obsidian-git plugin](https://github.com/denolehov/obsidian-git). If you've never used git, don't be intimidated, there's a pretty nice tutorial on using git and Obsidian togethere [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md).
 
-Once all that is set up, the easiest way is to go to the [[reference]] template and copy the contents into a new file. then just fill out the various parts. You can use the Template plugin (under Core plugins) to streamline the process, as desribed [here](https://help.obsidian.md/Plugins/Templates). Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
+If you want to semi-automate the process of adding a new reference, I recommend setting up using [Zotero](https://www.zotero.org/) as a citation manager and setting up the [Zotero-mdnotes](https://argentinaos.com/zotero-mdnotes/) plugin. This will enable you to automatically export citations into the correct Markdown file template, specifically using the [[Zotero Metadata Template]]. For a more detailed walkthrough of this process, see [Cat's workflow guide](https://argentinaos.com/zotero-mdnotes/). 
+
+Once all that is set up, the easiest way is to go to the [[Zotero Metadata Template]]  and copy the contents into a new file. then just fill out the various parts. You can use the Template plugin (under Core plugins) to streamline the process, as desribed [here](https://help.obsidian.md/Plugins/Templates). Make sure you slot it into at least one of the field tag categories (feel free to use multiple). And add whatever additional tags strike your fancy!
 
 
 ---
