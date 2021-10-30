@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7388a285574af4c1",
+        "id": "0a49675e94df0447",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "architectures-of-small-satellite-programs-in-developing-countries-zotero.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architectures-of-small-satellite-programs-in-developing-countries-zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7388a285574af4c1",
+  "active": "0a49675e94df0447",
   "lastOpenFiles": [
+    "charting-the-evolution-of-satellite-programs-in-developing-countries---the-space-technology-ladder-zotero.md",
+    "Templates/Zotero Metadata Template.md",
     "architectures-of-small-satellite-programs-in-developing-countries-zotero.md",
     "Templates/Mdnotes Default Template.md",
-    "Templates/Zotero Metadata Template.md",
-    "Templates/Standalone Note Template.md",
     "Templates/Zotero Note Template.md",
-    "charting-the-evolution-of-satellite-programs-in-developing-countries---the-space-technology-ladder-zotero.md",
+    "Templates/Standalone Note Template.md",
+    "article.md",
     "a-framework-for-evaluating-national-space-activity-zotero.md",
     "woodFrameworkEvaluatingNational2012-zotero.md",
-    "alstonShipsPassingNight2005-zotero.md",
-    "README.md"
+    "alstonShipsPassingNight2005-zotero.md"
   ]
 }

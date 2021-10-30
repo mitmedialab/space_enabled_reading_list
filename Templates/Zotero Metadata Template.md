@@ -4,7 +4,8 @@ authors: {{yamlauthorlist}}
 field: 
 date: {{yamldate}}
 ---
-# {{title}}
+
+{{title}}
 
 ## Metadata
 {{itemType}}
@@ -18,8 +19,9 @@ date: {{yamldate}}
 {{tags}}, #reference
 
 
-##Abstract
-#abstract:: {{abstractNote}}
+{{yamltitle}}
+
+{{abstractNote}}
 
 ##Key Ideas
 #key-idea:: 
