@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca41f11d5e2d54c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "bc1d889517175352",
+        "id": "7388a285574af4c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -76,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ca41f11d5e2d54c",
+  "active": "7388a285574af4c1",
   "lastOpenFiles": [
-    "adlerSexTeamSport2013-zotero.md",
-    "Templates/Zotero Note Template.md",
+    "Untitled.md",
+    "Templates/Zotero Metadata Templat.md",
+    "Standalone Note Template.md",
     "README.md",
-    "Area Descriptions/Advancing Justice and Development.md",
-    "test.md",
+    "Mdnotes Default Template.md",
+    "alstonShipsPassingNight2005-zotero.md",
+    "acemogluColonialOriginsComparative2001-zotero.md",
+    "adlerSexTeamSport2013-zotero.md",
     "Templates/reference.md",
-    "Area Descriptions/Using Designs Enabled by Space.md",
-    "Area Descriptions/In Earth's Complex Systems.md",
-    "References/Arguments for and against Planning.md",
-    "References/Authoritarian and Democratic Technics.md"
+    "Area Descriptions/Advancing Justice and Development.md"
   ]
 }
