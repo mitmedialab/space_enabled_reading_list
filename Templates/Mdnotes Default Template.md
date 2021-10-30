@@ -1,19 +1,35 @@
-{{title}}
+---
+title: {{yamltitle}}
+authors: {{yamlauthorlist}}
+field: 
+date: {{yamldate}}
+---
 
-![[%(metadataFileName)#Metadata]]
+# {{title}}
 
-Other files:
+## Metadata
+{{itemType}}
+{{author}}
+{{proceedingsTitle}}
+{{date}}
+{{url}}
+{{DOI}}
+{{citekey}}
+* field: 
+{{tags}}, #reference
 
-{{mdnotesFileName}}
+%(title)
 
-{{metadataFileName}}
+##Abstract
+#abstract:: {{abstractNote}}
 
-## Zotero links
+##Key Ideas
+#key-idea:: 
 
-{{localLibrary}}
+##Quotes
+#quotes:: 
 
-{{cloudLibrary}}
+##Notes
+#literature-notes:: 
 
-## Notes
-
--
+##Connections to other references
