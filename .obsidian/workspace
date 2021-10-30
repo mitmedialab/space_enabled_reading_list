@@ -7,8 +7,11 @@
         "id": "0a49675e94df0447",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "klostermanArgumentsPlanning1985-zotero.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "klostermanArgumentsPlanning1985-zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +100,15 @@
   },
   "active": "0a49675e94df0447",
   "lastOpenFiles": [
-    "charting-the-evolution-of-satellite-programs-in-developing-countries---the-space-technology-ladder-zotero.md",
+    "klostermanArgumentsPlanning1985-zotero.md",
+    "References/klostermanArgumentsPlanning1985.md",
+    "References/Authoritarian and Democratic Technics.md",
     "Templates/Zotero Metadata Template.md",
-    "architectures-of-small-satellite-programs-in-developing-countries-zotero.md",
-    "Templates/Mdnotes Default Template.md",
-    "Templates/Zotero Note Template.md",
-    "Templates/Standalone Note Template.md",
-    "article.md",
-    "a-framework-for-evaluating-national-space-activity-zotero.md",
-    "woodFrameworkEvaluatingNational2012-zotero.md",
-    "alstonShipsPassingNight2005-zotero.md"
+    "References/Arguments for and against Planning.md",
+    "Area Descriptions/Advancing Justice and Development.md",
+    "Area Descriptions/In Earth's Complex Systems.md",
+    "Area Descriptions/Using Designs Enabled by Space.md",
+    "References/Do Artifacts Have Politics?.md",
+    "References/friedman_timeline.png"
   ]
 }

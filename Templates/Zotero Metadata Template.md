@@ -16,7 +16,8 @@ date: {{yamldate}}
 {{DOI}}
 {{citekey}}
 * field: 
-{{tags}}, #reference
+*Tags: {{yamltags}}
+- #reference
 
 
 {{yamltitle}}
