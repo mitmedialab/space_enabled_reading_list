@@ -3,7 +3,7 @@ title: "The Age of Sustainable Development"
 authors:  
 - "Jeffrey Sachs"
 date: "2015"
-field:
+field:advancing_justice/development/sustainable
 ---
 
 # The Age of Sustainable Development
@@ -16,6 +16,7 @@ field:
 * Tags: 
 #field/advancing_justice/development/sustainable 
 #foundational 
+#topic/SDGs
 #reference
 
 
@@ -35,12 +36,20 @@ Jeffrey D. Sachs is one of the world's most perceptive and original analysts of 
 
 #key-idea:: Admits that the impact of the MDGs was uneven, with public health receiving the most attention, while sanitation and education were largely sidelined.
 
+#key-idea:: Two specific tools are important for implementing the SDGs: backcasting and technology road-mapping.
+
+#key-idea:: Sachs proposes that prescreptive economics should be modeled on clinical medicine and should not seek to attribute all negative outcomes to the same cause nor to prescribe the same solution to all problems, but instead to "make a differential diagnosis for the economic case at hand." He lays out several different conditions of poverty, for example, and proposes different solutions to each. Foreign aid is effective at treating the "poverty trap" condition (wherein "the country is too poor to make the basic investments it needs to escape from extreme material deprivation and get on the ladder of economic growth"), but less so for other conditions.
+
 ## Quotes
 > As an intellectual pursuit, sustainable development tries to make sense of the interactions of three complex systems: the world economy, the global society, and the Earth's physical environment... Sustainable development is also a normative outlook of the world, meaning that it recommends a set of goals to which the world should aspire... SDGs call for socially inclusive and environmentally sustainable growth. 
 
 >   Our new era will son be described by new global goals, the SDGs
 
 > Sustainable development is also a science of complex systems
+
+> Sustainable Development involves not just one but four complex interacting systems. It deals with a global economy...; it focuses on social interactions...; it analyzes the changes in complex Earth systems...; and it studies the problems of governance
+
+> Choosing the right technologies, we can achieve continued economic growth and also honor the planetary boundaries
 
 >  MDG goal setting has energized civil society and helped to orient governments that otherwise might have neglected the chalenges of extreme poverty... the MDG have been important in encouraging governments, experts, and civil society to undertake the 'differential diagnoses' necessary to overcome remaining obstacles.
 
