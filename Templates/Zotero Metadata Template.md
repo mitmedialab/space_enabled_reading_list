@@ -18,8 +18,7 @@ date: %(date)
 * field: 
 {{tags}}, #reference
 
-%(author)%
-
+%(title)
 
 ##Abstract
 #abstract:: %(abstractNote)%
