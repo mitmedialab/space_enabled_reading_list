@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#field/advancing",
+  "search": "#field/ad",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.97752808988764,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1157835476782365,
+  "scale": 0.9328381822372892,
   "close": false
 }

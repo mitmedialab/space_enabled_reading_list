@@ -16,11 +16,10 @@ date: {{yamldate}}
 {{DOI}}
 {{citekey}}
 * field: 
-*Tags: {{yamltags}}
-- #reference
+* Tags: {{yamltags}}
 
+#reference
 
-{{yamltitle}}
 
 {{abstractNote}}
 
