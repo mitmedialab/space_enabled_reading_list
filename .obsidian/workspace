@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Templates/Zotero Metadata Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Templates/Zotero Metadata Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "7388a285574af4c1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Templates/Zotero Metadata Templat.md",
-    "Standalone Note Template.md",
-    "README.md",
-    "Mdnotes Default Template.md",
+    "Templates/Zotero Metadata Template.md",
+    "charting-the-evolution-of-satellite-programs-in-developing-countries---the-space-technology-ladder-zotero.md",
+    "a-framework-for-evaluating-national-space-activity-zotero.md",
+    "Templates/Standalone Note Template.md",
+    "Templates/Zotero Note Template.md",
+    "woodFrameworkEvaluatingNational2012-zotero.md",
     "alstonShipsPassingNight2005-zotero.md",
-    "acemogluColonialOriginsComparative2001-zotero.md",
-    "adlerSexTeamSport2013-zotero.md",
-    "Templates/reference.md",
-    "Area Descriptions/Advancing Justice and Development.md"
+    "README.md",
+    "Templates/Mdnotes Default Template.md",
+    "acemogluColonialOriginsComparative2001-zotero.md"
   ]
 }
