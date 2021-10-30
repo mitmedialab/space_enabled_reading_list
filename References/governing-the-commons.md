@@ -13,8 +13,8 @@ date: "September 23, 2015"
 * Authors: [[Elinor Ostrom]]
 * Date: September 23, 2015
 * Cite key: ostromGoverningCommonsEvolution2015
-* field: #field/advancing_justice/development/theory
 * Tags: 
+#field/advancing_justice/development/theory
 #foundational
 #common_pool_resources
 #reference

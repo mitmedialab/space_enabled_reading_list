@@ -14,8 +14,8 @@ date: "1980"
 * Date: 1980
 * URL: [https://www.jstor.org/stable/20024652](https://www.jstor.org/stable/20024652)
 * Cite key: winnerArtifactsHavePolitics1980
-* field: #field/advancing_justice/justice/design 
 * Tags: 
+#field/advancing_justice/justice/design 
 #reference
 
 

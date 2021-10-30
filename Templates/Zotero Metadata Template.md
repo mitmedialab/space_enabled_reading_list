@@ -1,8 +1,8 @@
 ---
 title: {{yamltitle}}
 authors: {{yamlauthorlist}}
-field: 
 date: {{yamldate}}
+field:
 ---
 
 {{title}}
@@ -15,7 +15,6 @@ date: {{yamldate}}
 {{url}}
 {{DOI}}
 {{citekey}}
-* field: 
 * Tags: {{yamltags}}
 
 #reference
@@ -23,13 +22,12 @@ date: {{yamldate}}
 
 {{abstractNote}}
 
-##Key Ideas
+## Key Ideas
 #key-idea:: 
 
-##Quotes
-#quotes:: 
+## Quotes
 
-##Notes
+## Notes
 #literature-notes:: 
 
-##Connections to other references
+## Connections to other references

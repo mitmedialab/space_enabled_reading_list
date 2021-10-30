@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6247337b269ab634",
+        "id": "7fcb97a83f229a92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Zotero Metadata Template.md",
+            "file": "References/Two Centuries of Planning.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c1a0ec2ce2be8209",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "two-centuries-of-planning-an-overview.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Zotero Metadata Template.md",
+                "file": "two-centuries-of-planning-an-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6247337b269ab634",
+  "active": "c1a0ec2ce2be8209",
   "lastOpenFiles": [
+    "two-centuries-of-planning-an-overview.md",
+    "References/Two Centuries of Planning.md",
+    "References/the-three-historic-currents-of-city-planning.md",
+    "References/The Three Historic Currents of City Planning.md",
+    "References/the-death-and-life-of-great-american-cities.md",
+    "References/theory-of-economic-development.md",
+    "References/the-idea-of-progress.md",
     "Templates/Zotero Metadata Template.md",
-    "References/The Idea of Progress.md",
-    "References/marcuse_three_currents.png",
-    "References/The Death and Life of Great American Cities.md",
-    "jacobsDeathLifeGreat1961-zotero.md",
-    "References/Governing the Commons.md",
-    "References/ostromGoverningCommonsEvolution2015-zotero.md",
-    "References/Do Artifacts Have Politics?.md",
-    "References/winnerArtifactsHavePolitics1980-zotero.md",
-    "References/mumfordAuthoritarianDemocraticTechnics1964-zotero.md"
+    "References/arguments-for-and-against-planning.md",
+    "References/governing-the-commons.md"
   ]
 }
