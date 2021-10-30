@@ -7,11 +7,8 @@
         "id": "5ca41f11d5e2d54c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +107,8 @@
   },
   "active": "5ca41f11d5e2d54c",
   "lastOpenFiles": [
+    "adlerSexTeamSport2013-zotero.md",
+    "Templates/Zotero Note Template.md",
     "README.md",
     "Area Descriptions/Advancing Justice and Development.md",
     "test.md",
@@ -118,8 +116,6 @@
     "Area Descriptions/Using Designs Enabled by Space.md",
     "Area Descriptions/In Earth's Complex Systems.md",
     "References/Arguments for and against Planning.md",
-    "References/Authoritarian and Democratic Technics.md",
-    "References/Do Artifacts Have Politics?.md",
-    "References/friedman_timeline.png"
+    "References/Authoritarian and Democratic Technics.md"
   ]
 }
