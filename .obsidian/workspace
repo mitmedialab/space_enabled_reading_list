@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "5ed49d028f2c1596",
+    "id": "1c7e0f6e0a00491a",
     "type": "split",
     "children": [
       {
-        "id": "f234887f30a19815",
+        "id": "a798d42b30c1e6cf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Area Descriptions/Advancing Justice and Development.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Area Descriptions/Advancing Justice and Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +98,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f234887f30a19815",
+  "active": "a798d42b30c1e6cf",
   "lastOpenFiles": [
     "Area Descriptions/Advancing Justice and Development.md",
     "Area Descriptions/Using Designs Enabled by Space.md",
