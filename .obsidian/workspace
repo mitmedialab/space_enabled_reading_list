@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a798d42b30c1e6cf",
+        "id": "76b9bf2c84b0608d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References/do-artifacts-have-politics.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/do-artifacts-have-politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a798d42b30c1e6cf",
+  "active": "76b9bf2c84b0608d",
   "lastOpenFiles": [
+    "References/governing-the-commons.md",
+    "References/pedagogy-of-the-oppressed.md",
+    "README.md",
+    "sustainable-development-and-planetary-boundaries.md",
+    "sustainable_triangle.jpg",
+    "Area Descriptions/Advancing Justice and Development.md",
     "References/do-artifacts-have-politics.md",
     "References/friedman_timeline.png",
     "Templates/Zotero Metadata Template.md",
-    "References/the-death-and-life-of-great-american-cities.md",
-    "Templates/Zotero Note Template.md",
-    "Templates/Standalone Note Template.md",
-    "Templates/Mdnotes Default Template.md",
-    "Templates/custom placeholders.md",
-    "References/the-rise-of-“the-rest”-challenges-to-the-west-from-late-industrializing-economies.md",
-    "References/theory-of-economic-development.md"
+    "References/the-death-and-life-of-great-american-cities.md"
   ]
 }
